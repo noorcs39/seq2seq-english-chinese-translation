@@ -25,3 +25,9 @@ Install the dependencies using pip:
 
 ```bash
 pip install tensorflow nltk numpy
+seq2seq-english-chinese-translation/
+│
+├── main.py                 # Core implementation (training + inference)
+├── sample_data.txt         # Optional: Sample sentence pairs (EN-ZH)
+├── README.md               # Project documentation
+```
